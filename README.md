@@ -11,13 +11,13 @@ Built with **Django REST Framework** (backend), **Next.js 16** (frontend), and *
 -  ML-based toxicity detection (trained using scikit-learn)
 -  REST API with Django backend
 -  Modern Next.js frontend (React + Tailwind)
--  Deployed on Railway (backend) & Vercel (frontend)
 -  Cross-Origin Resource Sharing (CORS) configured
 
 ---
 
 ##  Screenshot
 
+<img width="1899" height="905" alt="image" src="https://github.com/user-attachments/assets/487b040c-e2b2-437d-ad5e-74b92677b7aa" />
 
 
 ##  Tech Stack
