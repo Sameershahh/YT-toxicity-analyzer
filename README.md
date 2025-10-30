@@ -1,4 +1,4 @@
-# YT Toxicity Analyzer
+# YouTube Toxicity Analyzer
 
 A full-stack web application that analyzes YouTube comment toxicity using Machine Learning.  
 Built with **Django REST Framework** (backend), **Next.js 16** (frontend), and **scikit-learn** (ML model).
