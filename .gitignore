@@ -1,0 +1,64 @@
+# ============================================
+# General
+# ============================================
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+*.DS_Store
+*.vscode/
+*.idea/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ============================================
+# Django / Backend
+# ============================================
+backend/venv/
+backend/staticfiles/
+backend/media/
+*.pot
+*.pyc
+db.sqlite3
+backend/__pycache__/
+*.egg-info/
+*.pid
+*.cover
+
+# ============================================
+# Node / Next.js Frontend
+# ============================================
+frontend/node_modules/
+frontend/.next/
+frontend/.turbo/
+frontend/out/
+frontend/.vercel/
+frontend/.swc/
+frontend/.cache/
+frontend/.env*
+frontend/yarn-error.log
+frontend/npm-debug.log
+frontend/package-lock.json
+
+# ============================================
+# Build & Deployment
+# ============================================
+dist/
+build/
+*.bak
+*.tmp
+*.log
+*.tgz
+*.tar.gz
+
+# ============================================
+# OS & IDE
+# ============================================
+Thumbs.db
+.DS_Store
+ehthumbs.db
+*.swp
+*.swo
